@@ -42,7 +42,7 @@
  *
  */
 definition(
-    name: "Is my home secure?",
+    name: "Is My Home Secure?",
     namespace: "tslagle13",
     author: "Tim Slagle",
     description: "Check a set of doors, windows, and locks to see if your home is secure at a certain time or when mode changes.",
